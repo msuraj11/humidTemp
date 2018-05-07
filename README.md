@@ -1,5 +1,5 @@
 # humidTemp
-//This code can produce outputs of surrounding Humidity and Temperature.
+# This code can produce outputs of surrounding Humidity and Temperature.
 import sys
 import Adafruit_DHT
 while True:
